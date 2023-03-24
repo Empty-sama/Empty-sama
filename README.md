@@ -2,7 +2,13 @@
 <img src="https://animemotivation.com/wp-content/uploads/2022/11/the-eminence-in-shadow-cid-shadow.jpg" alt="nz" width="750"/>
 </p>
 
-### Hi there 👋
+### Hi there 👋, Welcome to my profile
+
+-I am A noob WhatsApp bot developer
+-I currently only use Javascript and Typescript although I'm studying HTML
+-Shadow.Inc is my greatest pride⚡
+-I'm willing to collaborate on new projects as part of my leaning experience
+-Check my pinned repositories🎗
 
 <!--
 **Empty-sama/Empty-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
