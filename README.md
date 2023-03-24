@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://animemotivation.com/wp-content/uploads/2022/11/the-eminence-in-shadow-cid-shadow.jpg" alt="nz" width="350"/>
+<img src="https://animemotivation.com/wp-content/uploads/2022/11/the-eminence-in-shadow-cid-shadow.jpg" alt="nz" width="750"/>
 </p>
 
 ### Hi there 👋
