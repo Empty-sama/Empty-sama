@@ -8,7 +8,7 @@
 - I currently only use Javascript and Typescript although I'm studying HTML
 - Shadow.Inc is my greatest pride⚡✨
 - I love anime
-- I'm willing to collaborate on new projects as part of my leaning experience(if you're interested in collaborating dm me)
+- I'm willing to collaborate on new projects as part of my learning experience(if you're interested in collaborating dm me)
 - Check my pinned repositories🎗
 
 <!--
