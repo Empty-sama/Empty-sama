@@ -4,12 +4,12 @@
 
 ### Hi there 👋, Welcome to my profile
 
-- I am A noob WhatsApp bot developer
-- I currently only use Javascript and Typescript although I'm studying HTML
-- Shadow.Inc is my greatest pride⚡✨
-- I love anime
-- I'm willing to collaborate on new projects as part of my learning experience(if you're interested in collaborating dm me)
-- Check my pinned repositories🎗
+## Here's some interesting facts about me:
+
+- I am a 17 year old Developer with a love for anime, games, and of course beautifully written code that makes life easy for the Dev and the User
+- My primary Development language is Typescript 
+- I love anime's like bleach and Jujutsu Kaisen
+- I'm willing to collaborate on new projects as part of my learning experience(if you're interested in collaborating you can always reach me on telegram)
 
 <!--
 **Empty-sama/Empty-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+### My contributions
 [![Contribution Stats](https://next-github-tau.vercel.app/api/card?username=Empty-sama)](https://github.com/AlenSaito1/next-github/)
 
+### My stats
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Empty-sama&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
