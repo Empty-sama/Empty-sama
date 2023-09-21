@@ -2,7 +2,7 @@
 <img src="https://animemotivation.com/wp-content/uploads/2022/11/the-eminence-in-shadow-cid-shadow.jpg" alt="nz" width="750"/>
 </p>
 
-### Hi there 👋, Welcome to my profile
+<h1>Hi there 👋, Welcome to my profile</h1>
 
 ## Here's some interesting facts about me:
 
