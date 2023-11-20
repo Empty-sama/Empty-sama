@@ -8,8 +8,8 @@
 
 - I am a 17 year old Developer with a love for anime, games, and of course beautifully written code that makes life easy for the Dev and the User
 - My primary Development language is Typescript 
-- I love anime's like bleach and Jujutsu Kaisen
-- I'm willing to collaborate on new projects as part of my learning experience(if you're interested in collaborating you can always reach me on telegram)
+- I love anime's like bleach, Jujutsu Kaisen and seiren
+- I'm willing to collaborate on new projects as part of my learning experience(if you're interested in collaborating you can always reach me on telegram:))
 
 <!--
 **Empty-sama/Empty-sama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
